@@ -1,0 +1,1 @@
+Titans Mod (Titan Gear) for Minecraft 1.21.4 / NeoForge. Adds god-tier Titan bosses with original 3D models & animations, legendary armor sets (multi-million max HP), infinite-damage weapons, 17 new ores, and a staged boss progression system.
